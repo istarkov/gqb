@@ -55,3 +55,7 @@ See the source it's small.
 ## TODO
 
 Type resolvers
+
+## PS
+
+Haven't tested at all except current repo tests, just an idea.
