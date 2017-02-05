@@ -11,8 +11,6 @@ after the schema.
 
 ## How it works
 
-Using tagged template literals we can place resolvers directly inside schema.
-
 ```javascript
 import { gqb, getResolvers } from 'gqb';
 import { graphql } from 'graphql';
