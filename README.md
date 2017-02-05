@@ -51,3 +51,7 @@ Type fields resolver now are placed directly in the schema, immediatelly after t
 It also supports schema inlining, (*see [tests](./src/__tests__)*)
 
 See the source it's small.
+
+## TODO
+
+Type resolvers
