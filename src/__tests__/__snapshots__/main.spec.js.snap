@@ -1,0 +1,12 @@
+exports[`test it works 1`] = `
+Object {
+  "hello": "World",
+  "pic": "pic size is: 20",
+}
+`;
+
+exports[`test it works 2`] = `
+Object {
+  "setMessage": "Mutated Hello",
+}
+`;
