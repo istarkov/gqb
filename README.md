@@ -52,6 +52,12 @@ It also supports schema inlining, (*see [tests](./src/__tests__)*)
 
 See the source it's small.
 
+## Install
+
+```
+npm install --save gqb
+```
+
 ## TODO
 
 Type resolvers
